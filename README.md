@@ -12,4 +12,4 @@ Write a program in assembly language with the following functionalities:
 
 .
 
-	This program was realised during a laboratory test taken for the Computer Systems Architecture course, during Semester 1.
+	This program was realised during a laboratory test taken for the Computer Systems Architecture course, Semester 1.
